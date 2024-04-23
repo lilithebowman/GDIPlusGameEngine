@@ -15,7 +15,7 @@ Class frmMain
 
     ' some other stuff
     Private _counter As Long = 0
-    Private _Message As String = "Hello World!"
+    Private _Message As String = "Hellorld!"
     Private _Font = New Font(Me.Font.Name, 32, FontStyle.Bold)
 
     ' timer for a simple FPS counter
