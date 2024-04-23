@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Source\\RenderLoopGDIPlus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BE9A59-3CC7-46BE-B45A-19B16574E6F3}|RenderLoopGDIPlus.vbproj|d:\\source\\renderloopgdiplus\\frmmain.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F8BE9A59-3CC7-46BE-B45A-19B16574E6F3}|RenderLoopGDIPlus.vbproj|solutionrelative:frmmain.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BE9A59-3CC7-46BE-B45A-19B16574E6F3}|RenderLoopGDIPlus.vbproj|d:\\source\\renderloopgdiplus\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F8BE9A59-3CC7-46BE-B45A-19B16574E6F3}|RenderLoopGDIPlus.vbproj|solutionrelative:frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMain.Designer.vb",
+              "DocumentMoniker": "D:\\Source\\RenderLoopGDIPlus\\frmMain.Designer.vb",
+              "RelativeDocumentMoniker": "frmMain.Designer.vb",
+              "ToolTip": "D:\\Source\\RenderLoopGDIPlus\\frmMain.Designer.vb",
+              "RelativeToolTip": "frmMain.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-23T21:38:48.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMain.vb [Design]",
+              "DocumentMoniker": "D:\\Source\\RenderLoopGDIPlus\\frmMain.vb",
+              "RelativeDocumentMoniker": "frmMain.vb",
+              "ToolTip": "D:\\Source\\RenderLoopGDIPlus\\frmMain.vb [Design]",
+              "RelativeToolTip": "frmMain.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-23T21:38:41.251Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
