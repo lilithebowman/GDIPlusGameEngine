@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Source\\RenderLoopGDIPlus\\",
+  "WorkspaceRootPath": "C:\\Source\\GDIPlusGameEngine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8BE9A59-3CC7-46BE-B45A-19B16574E6F3}|RenderLoopGDIPlus.vbproj|d:\\source\\renderloopgdiplus\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{F8BE9A59-3CC7-46BE-B45A-19B16574E6F3}|RenderLoopGDIPlus.vbproj|c:\\source\\gdiplusgameengine\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{F8BE9A59-3CC7-46BE-B45A-19B16574E6F3}|RenderLoopGDIPlus.vbproj|solutionrelative:frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8BE9A59-3CC7-46BE-B45A-19B16574E6F3}|RenderLoopGDIPlus.vbproj|d:\\source\\renderloopgdiplus\\frmmain.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{F8BE9A59-3CC7-46BE-B45A-19B16574E6F3}|RenderLoopGDIPlus.vbproj|C:\\Source\\GDIPlusGameEngine\\frmmain.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{F8BE9A59-3CC7-46BE-B45A-19B16574E6F3}|RenderLoopGDIPlus.vbproj|solutionrelative:frmmain.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8BE9A59-3CC7-46BE-B45A-19B16574E6F3}|RenderLoopGDIPlus.vbproj|D:\\Source\\RenderLoopGDIPlus\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{F8BE9A59-3CC7-46BE-B45A-19B16574E6F3}|RenderLoopGDIPlus.vbproj|C:\\Source\\GDIPlusGameEngine\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{F8BE9A59-3CC7-46BE-B45A-19B16574E6F3}|RenderLoopGDIPlus.vbproj|solutionrelative:frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "frmMain.vb",
-              "DocumentMoniker": "D:\\Source\\RenderLoopGDIPlus\\frmMain.vb",
+              "DocumentMoniker": "C:\\Source\\GDIPlusGameEngine\\frmMain.vb",
               "RelativeDocumentMoniker": "frmMain.vb",
-              "ToolTip": "D:\\Source\\RenderLoopGDIPlus\\frmMain.vb",
+              "ToolTip": "C:\\Source\\GDIPlusGameEngine\\frmMain.vb",
               "RelativeToolTip": "frmMain.vb",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAiwF4AAAAUAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAiwCUAAABkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-04-23T21:44:08.396Z",
               "EditorCaption": ""
@@ -41,26 +41,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "frmMain.Designer.vb",
-              "DocumentMoniker": "D:\\Source\\RenderLoopGDIPlus\\frmMain.Designer.vb",
+              "DocumentMoniker": "C:\\Source\\GDIPlusGameEngine\\frmMain.Designer.vb",
               "RelativeDocumentMoniker": "frmMain.Designer.vb",
-              "ToolTip": "D:\\Source\\RenderLoopGDIPlus\\frmMain.Designer.vb",
+              "ToolTip": "C:\\Source\\GDIPlusGameEngine\\frmMain.Designer.vb",
               "RelativeToolTip": "frmMain.Designer.vb",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-04-23T21:38:48.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T21:38:48.734Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "frmMain.vb [Design]",
-              "DocumentMoniker": "D:\\Source\\RenderLoopGDIPlus\\frmMain.vb",
+              "DocumentMoniker": "C:\\Source\\GDIPlusGameEngine\\frmMain.vb",
               "RelativeDocumentMoniker": "frmMain.vb",
               "ToolTip": "D:\\Source\\RenderLoopGDIPlus\\frmMain.vb [Design]",
-              "RelativeToolTip": "frmMain.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-04-23T21:38:41.251Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-23T21:38:41.251Z"
             }
           ]
         }
